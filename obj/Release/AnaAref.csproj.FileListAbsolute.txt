@@ -1,0 +1,14 @@
+C:\Users\zorit\source\repos\AnaAref\AnaAref\bin\Release\AnaAref.exe.config
+C:\Users\zorit\source\repos\AnaAref\AnaAref\bin\Release\AnaAref.exe
+C:\Users\zorit\source\repos\AnaAref\AnaAref\bin\Release\AnaAref.pdb
+C:\Users\zorit\source\repos\AnaAref\AnaAref\obj\Release\MainWindow.g.cs
+C:\Users\zorit\source\repos\AnaAref\AnaAref\obj\Release\App.g.cs
+C:\Users\zorit\source\repos\AnaAref\AnaAref\obj\Release\AnaAref_MarkupCompile.cache
+C:\Users\zorit\source\repos\AnaAref\AnaAref\obj\Release\AnaAref_MarkupCompile.lref
+C:\Users\zorit\source\repos\AnaAref\AnaAref\obj\Release\MainWindow.baml
+C:\Users\zorit\source\repos\AnaAref\AnaAref\obj\Release\AnaAref.g.resources
+C:\Users\zorit\source\repos\AnaAref\AnaAref\obj\Release\AnaAref.Properties.Resources.resources
+C:\Users\zorit\source\repos\AnaAref\AnaAref\obj\Release\AnaAref.csproj.GenerateResource.cache
+C:\Users\zorit\source\repos\AnaAref\AnaAref\obj\Release\AnaAref.csproj.CoreCompileInputs.cache
+C:\Users\zorit\source\repos\AnaAref\AnaAref\obj\Release\AnaAref.exe
+C:\Users\zorit\source\repos\AnaAref\AnaAref\obj\Release\AnaAref.pdb
